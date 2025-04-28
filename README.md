@@ -33,6 +33,11 @@ This dashboard provides a comprehensive view of sales performance with key metri
 ## 📈 Dashboard Preview
 ![dashboard-demo](https://github.com/user-attachments/assets/52f1b153-5811-49a5-acd6-b4192098e396)
 
+## 🧠 Key Insights
+- December recorded the highest revenue of the year.
+- Texas, California, and Florida are top states by revenue.
+- Overall, Average Price per Unit remained steady around 0.48 across all months.
+
 ---
 ## 🛡️ License
 
